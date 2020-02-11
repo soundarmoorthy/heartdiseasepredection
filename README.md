@@ -1,4 +1,4 @@
-# heartdiseasepredection
+# Heart disease predection
 St.Peters college demo
 
 This repository is a one off fork from the Microsoft ML.NET Samples. THe ML.NET samples is too big and has dependencies on
